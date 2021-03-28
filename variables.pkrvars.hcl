@@ -1,0 +1,5 @@
+region        = "ap-northeast-1"
+ami_name      = "packer101-ami"
+instance_type = "t2.micro"
+ssh_username  = "ec2-user"
+environment   = "dev"
